@@ -4,10 +4,10 @@
 1. HTML 
 2. CSS
 
-Framework used:
+## Framework used:
 1. Bootstrap
 
-Components/Features included:
+## Components/Features included:
 1. Nested Grids
 2. Button Groups 
 3. Image Classes 
