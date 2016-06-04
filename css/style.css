@@ -1,19 +1,19 @@
 header{
-	background-image: linear-gradient(#04519b, #044687 60%, #033769);
-	color:#fff;
-	min-height:100px;
-	padding-top:25px;
+    background-image: linear-gradient(#04519b, #044687 60%, #033769);
+    color: #fff;
+    min-height: 100px;
+    padding-top: 25px;
 }
 
 header form{
-	float:right;
+    float: right;
 }
 
 header .logo{
-	float:left;
+    float: left;
 }
 
 .panel-heading{
-	background-image: linear-gradient(#04519b, #044687 60%, #033769);
-	color:#fff !important;
+    background-image: linear-gradient(#04519b, #044687 60%, #033769);
+    color: #fff !important; /* Overwrite */
 }
